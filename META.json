@@ -32,6 +32,7 @@
             "Scalar::Util" : 0,
             "UNIVERSAL::DOES" : 0,
             "namespace::clean" : 0,
+            "parent" : 0,
             "perl" : "5.01"
          }
       }
@@ -39,7 +40,7 @@
    "provides" : {
       "SQL::Abstract::FromQuery" : {
          "file" : "lib/SQL/Abstract/FromQuery.pm",
-         "version" : "0.01"
+         "version" : "0.02"
       },
       "SQL::Abstract::FromQuery::Contains" : {
          "file" : "lib/SQL/Abstract/FromQuery/Contains.pm",
@@ -60,5 +61,5 @@
          "http://dev.perl.org/licenses/"
       ]
    },
-   "version" : "0.01"
+   "version" : "0.02"
 }

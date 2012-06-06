@@ -16,7 +16,7 @@ name: SQL-Abstract-FromQuery
 provides:
   SQL::Abstract::FromQuery:
     file: lib/SQL/Abstract/FromQuery.pm
-    version: 0.01
+    version: 0.02
   SQL::Abstract::FromQuery::Contains:
     file: lib/SQL/Abstract/FromQuery/Contains.pm
     version: 0
@@ -33,7 +33,8 @@ requires:
   Scalar::Util: 0
   UNIVERSAL::DOES: 0
   namespace::clean: 0
+  parent: 0
   perl: 5.01
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.01
+version: 0.02

@@ -12,7 +12,8 @@ WriteMakefile
                    'Scalar::Util' => 0,
                    'Test::More' => 0,
                    'UNIVERSAL::DOES' => 0,
-                   'namespace::clean' => 0
+                   'namespace::clean' => 0,
+                   'parent' => 0
                  },
   'INSTALLDIRS' => 'site',
   'EXE_FILES' => [],
