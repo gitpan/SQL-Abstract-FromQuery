@@ -16,7 +16,7 @@ name: SQL-Abstract-FromQuery
 provides:
   SQL::Abstract::FromQuery:
     file: lib/SQL/Abstract/FromQuery.pm
-    version: '0.03'
+    version: '0.04'
   SQL::Abstract::FromQuery::Contains:
     file: lib/SQL/Abstract/FromQuery/Contains.pm
   SQL::Abstract::FromQuery::FR:
@@ -36,4 +36,4 @@ requires:
 resources:
   license: http://dev.perl.org/licenses/
   repository: https://github.com/damil/SQL-Abstract-FromQuery
-version: '0.03'
+version: '0.04'
