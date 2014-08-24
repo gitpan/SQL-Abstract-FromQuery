@@ -9,7 +9,7 @@ WriteMakefile
                    'Digest::MD5' => 0,
                    'Module::Load' => 0,
                    'Params::Validate' => 0,
-                   'Regexp::Grammars' => 0,
+                   'Regexp::Grammars' => '1.035',
                    'Scalar::Util' => 0,
                    'Test::More' => 0,
                    'UNIVERSAL::DOES' => 0,
