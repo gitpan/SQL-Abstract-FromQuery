@@ -29,7 +29,7 @@
             "Digest::MD5" : "0",
             "Module::Load" : "0",
             "Params::Validate" : "0",
-            "Regexp::Grammars" : "1.035",
+            "Regexp::Grammars" : "1.038",
             "Scalar::Util" : "0",
             "UNIVERSAL::DOES" : "0",
             "namespace::clean" : "0",
@@ -41,7 +41,7 @@
    "provides" : {
       "SQL::Abstract::FromQuery" : {
          "file" : "lib/SQL/Abstract/FromQuery.pm",
-         "version" : "0.05"
+         "version" : "0.06"
       },
       "SQL::Abstract::FromQuery::Contains" : {
          "file" : "lib/SQL/Abstract/FromQuery/Contains.pm"
@@ -62,5 +62,5 @@
          "url" : "https://github.com/damil/SQL-Abstract-FromQuery"
       }
    },
-   "version" : "0.05"
+   "version" : "0.06"
 }
